@@ -14,7 +14,7 @@
             "restart": true,
             "runtimeExecutable": "nodemon",
             "console": "integratedTerminal",
-            "program": "${workspaceFolder}\\Node-Server\\app.js"
+            "program": "${workspaceFolder}\\app.js"
         }
     ]
 }
